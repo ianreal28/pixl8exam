@@ -1,2 +1,1 @@
 # pixl8exam
-exam
